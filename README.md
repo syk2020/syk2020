@@ -1,4 +1,7 @@
 ### Hi there 👋 
+
+文章多めの書き物 -> [note](https://note.com/sayacan)
+
 ```
 import React, { useState, useEffect } from 'react';
 
@@ -11,7 +14,7 @@ export function IntroduceMySelf () => {
     
     newSyk('software engneer!!!👩🏻‍💻💚');
     
-    setMyLogURL('https://note.com/sayacan/')
+    setMyLogURL('https://note.com/sayacan')
     
   }, []);
   
