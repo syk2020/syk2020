@@ -1,10 +1,12 @@
-# Hi there 👋 
+### Hi there 👋 
 
 文章多めの書き物 -> [note](https://note.com/sayacan)
 
 
 ■ とあるコーディングスクールのいち卒業生が技術以外に得たものの話
+
 ■ The story of one graduate of a coding school who gained more than just skills (Japanese Only)
+
 https://note.com/sayacan/n/na499301e9762
 
 ```
