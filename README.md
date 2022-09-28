@@ -10,5 +10,6 @@ int main() {
   
   introduction += "At Typing.io, the best score is WPM 54 in Java - Guava !" + "\n"
   cout << introduction << endl;
+  return 0;
 }
 ```
